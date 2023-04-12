@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SocialApp</string>
+    <string name="your_web_client_id">webClintId</string>
+    <string name="_0likes">0likes</string>
+    <string name="checking_how_it_looks">Checking how it looks</string>
+    <string name="randomText">22 minits ago</string>
+    <string name="hello">Hello</string>
+    <string name="logout">LogOut</string>
+</resources>
